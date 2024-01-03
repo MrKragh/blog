@@ -1,4 +1,0 @@
----
-title: Hall of Fame
----
-
