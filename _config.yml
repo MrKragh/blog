@@ -138,18 +138,6 @@ collections:
   #   output: false
 
 defaults:
-#  - scope:
-#      path: ""
-#      type: "authors"
-#    values:
-#      layout: author
-#      permalink: /authors/:title/
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: page
-      permalink: /:basename/
   - scope:
       path: "" # An empty string here means all files in the project
       type: posts
@@ -160,24 +148,24 @@ defaults:
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
       permalink: /posts/:title/
-      image:
-        path: ../banners/default.png
-        alt: 
         
   - scope:
       path: _drafts
     values:
       comments: false
+
   - scope:
       path: ""
       type: tabs # see `site.collections`
     values:
       layout: page
       permalink: /:title/
+
   - scope:
       path: assets/img/favicons
     values:
       swcache: true
+
   - scope:
       path: assets/js/dist
     values:
@@ -196,11 +184,9 @@ compress_html:
     envs: [development]
 
 include:
-  # - _pages
   - .well-known
   - public
   
-
 exclude:
   - "*.gem"
   - "*.gemspec"
@@ -226,6 +212,3 @@ jekyll_compose:
       author: Kevin K. Kragh
       categories:
       tags:
-      image:
-        path: ../banners/default.png
-        alt: 

@@ -5,7 +5,7 @@ title: "[ ~ : /var/blog ] $ whoami"
 mermaid: true
 ---
 
-![author_img](/assets/img/pages/whoami/KevinTheMinion.png){: .left} 
+![author_img]({% asset KevinTheMinion.png %}){: .left} 
 
 ## > Kevin K. Kragh
 
