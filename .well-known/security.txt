@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:kragh@cyberunfiltered.com
+Expires: 2026-12-29T23:00:00.000Z
+Encryption: https://blog.cyberunfiltered.com/public/pgp-key.txt
+Acknowledgments: https://blog.cyberunfiltered.com/hall-of-fame/
+Preferred-Languages: en, da
+Canonical: https://blog.cyberunfiltered.com/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQbtuEMNLGk272bIiqkMzcBCcbyogUCZY+7aAAKCRCkMzcBCcby
+og+kAP0bpiSCf/f2+PMjKzBM1HQzz9hM64zCpP0OSttwEDRH1AD+JT8P6sDyzWfj
+djk9nuqS7+6J9/1Ka1eTZuICDwwUXw0=
+=8Bjx
+-----END PGP SIGNATURE-----

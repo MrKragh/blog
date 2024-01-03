@@ -1,0 +1,22 @@
+---
+---
+
+@import 'main';
+
+/* append your custom style below */
+
+.social-links > span {
+    margin-right: 10px;
+    display:inline-block;
+}
+
+.columns {
+    -moz-columns: 2;
+    -webkit-columns: 2;
+    column-count: 2;
+}
+
+.columns > ul {
+    list-style-type: none;
+    padding-left: 0 !important;
+}
