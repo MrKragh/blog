@@ -91,10 +91,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: MrKragh/blog
-    repo_id: R_kgDOK_fnmA
+    repo: MrKragh/Blog
+    repo_id: R_kgDOLAcPtQ
     category: Blog posts
-    category_id: DIC_kwDOK_fnmM4CcHnB
+    category_id: DIC_kwDOLAcPtc4CcLAF
     mapping: "og:title" # optional, default to 'pathname'
     input_position: bottom # optional, default to 'bottom'
     lang: en # optional, default to the value of `site.lang`
