@@ -1,7 +1,7 @@
 ---
 icon: fas fa-question
 order: 10
-title: "[ ~ : /var/blog ] $ whoami"
+custom_title: "[ ~ : /var/blog ] $ whoami"
 mermaid: true
 ---
 

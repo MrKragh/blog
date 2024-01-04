@@ -158,7 +158,7 @@ defaults:
       path: ""
       type: tabs # see `site.collections`
     values:
-      layout: page
+      layout: custom_page
       permalink: /:title/
 
   - scope:
