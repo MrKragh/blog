@@ -39,7 +39,7 @@ social:
   name: Kevin K. Kragh
   email: kragh@cyberunfiltered.com # change to your email address
   links:
-    # The first element serves as the copyright owner's link // set via. authors-url-hook.rb plugin
+    # The first element serves as the copyright owner's link // set via. site-social-links.rb
     - https://www.linkedin.com/in/kevinkragh/
     - https://github.com/MrKragh
     - https://twitter.com/MrKr4gh
